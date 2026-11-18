@@ -1,5 +1,5 @@
 """
-Mapa de Execução · modelo dos caminhos C e D (Playwright, com login assistido).
+Task Replay · modelo dos caminhos C e D (Playwright, com login assistido).
 
 Uso:
     python executar.py --teste entrada.csv

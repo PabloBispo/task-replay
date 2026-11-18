@@ -1,4 +1,4 @@
-# Mapa de Execução
+# Task Replay
 
 **Mapeie uma vez. Execute mil.**
 
@@ -33,14 +33,14 @@ E três regras que não se quebram: senha nunca passa pelo chat, nada é enviado
 ### Claude Code
 
 ```bash
-git clone https://github.com/PabloBispo/mapa-de-execucao ~/.claude/skills/mapa-de-execucao
+git clone https://github.com/PabloBispo/task-replay ~/.claude/skills/task-replay
 ```
 
 Abra o Claude Code e peça: "quero automatizar a emissão de nota fiscal no sistema X".
 
 ### Claude (web, desktop e celular)
 
-1. Baixe o `mapa-de-execucao.zip` na página de [Releases](https://github.com/PabloBispo/mapa-de-execucao/releases).
+1. Baixe o `task-replay.zip` na página de [Releases](https://github.com/PabloBispo/task-replay/releases).
 2. Vá em **Customize › Skills**, clique em **+**, depois **Create skill** e **Upload a skill**.
 3. Escolha o zip.
 

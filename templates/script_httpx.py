@@ -1,5 +1,5 @@
 """
-Mapa de Execução · modelo do caminho B (httpx + BeautifulSoup).
+Task Replay · modelo do caminho B (httpx + BeautifulSoup).
 
 Uso:
     python executar.py --teste entrada.csv   # roda tudo até o passo CONFIRMAR, sem executá-lo

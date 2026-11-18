@@ -1,9 +1,9 @@
 ---
-name: mapa-de-execucao
+name: task-replay
 description: Transforma uma tarefa repetitiva feita no navegador (emitir nota, baixar relatório, preencher cadastro, conferir pedido) numa automação barata. Use quando o usuário quiser automatizar algo que faz toda semana num site ou sistema web, quando reclamar que o Claude gasta muitos tokens controlando o navegador, ou quando pedir para "mapear", "roteirizar" ou "transformar em script" um processo web.
 ---
 
-# Mapa de Execução
+# Task Replay
 
 Mapeie uma vez. Execute mil.
 
