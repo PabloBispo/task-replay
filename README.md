@@ -28,6 +28,8 @@ No fim você recebe:
 
 E três regras que não se quebram: senha nunca passa pelo chat, nada é enviado ou emitido sem a sua confirmação, e captcha é sempre resolvido por você.
 
+O guia em PDF com tudo isso está em [`guia-task-replay.pdf`](guia-task-replay.pdf).
+
 ## Como instalar
 
 ### Claude Code
