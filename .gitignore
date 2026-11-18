@@ -1,0 +1,5 @@
+.env
+sessao/
+*.har
+resultado.csv
+__pycache__/
