@@ -42,7 +42,7 @@ Abra o Claude Code e peça: "quero automatizar a emissão de nota fiscal no sist
 
 ### Claude (web, desktop e celular)
 
-1. Baixe o `task-replay.zip` na página de [Releases](https://github.com/PabloBispo/task-replay/releases).
+1. Baixe o [`task-replay.zip`](task-replay.zip) (botão Download na página do arquivo).
 2. Vá em **Customize › Skills**, clique em **+**, depois **Create skill** e **Upload a skill**.
 3. Escolha o zip.
 
